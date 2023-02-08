@@ -3,6 +3,6 @@ This repository contains some additional data science projects
 <br>
 <br>
 <br>
-<li>
-<ol> Image Segmentation (semantic segmentation) </ol>
-</li>
+<ol>
+<li> Image Segmentation (semantic segmentation) </li>
+</ol>
