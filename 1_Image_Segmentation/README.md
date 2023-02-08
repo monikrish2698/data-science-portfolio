@@ -10,4 +10,7 @@ Task: To label pixels on the image where humans are found<br>
 Framework: PyTorch<br>
 Dataset: @VikramShenoy97<br>
 Model: UNET , Encoder : timm-efficientnet-b0, Weights : imagenet<br>
-Loss: DiceLoss
+
+Loss: DiceLoss<br>
+![image](https://user-images.githubusercontent.com/65104881/217586826-1877d68a-1c45-4494-8341-2675877d06a7.png)<br>
+
