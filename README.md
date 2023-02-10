@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains some additional data science projects that I did in my free time
+<p>This repository contains some additional data science projects that I did in my free time. These projects helped me understand the basics of some complicated topics. I hope these projects can help other beginner level data science and machine learning enthusiasts to explore and find their space in this field.</p>
 <br>
 <br>
 <ol>
