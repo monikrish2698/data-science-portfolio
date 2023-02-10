@@ -1,1 +1,8 @@
+# TF-IDF approach to building a recommendation system
+<p>TF-IDF is a commonly used method in information retrieval and natural language processing. It measures the importance of a word in a document by multiplying two statistics: term frequency and inverse document frequency.</p>
+<p>Term frequency measures how frequently a word appears in a document. Inverse document frequency measures how rare a word is across all documents in a collection. By multiplying these two statistics, we can give more weight to words that are both frequent in a document and rare in the overall collection.</p>
+<p>In a recommendation system, TF-IDF can be used to recommend items (such as movies, books, or articles) to a user based on their past interactions with items in the same collection. By analyzing the frequency of words in user-item interactions, the system can determine which items are most similar and recommend them to the user.</p>
+<p>TF-IDF approach provides a simple yet effective way to recommend items to users based on their past interactions with items in the same collection. It is widely used in many recommendation systems and has been found to provide good results in many cases.</p><br>
 
+<b>Scope of project</b><br>
+<p>This project gave me a hands on to understand what goes behind a simple recommendation engine. This project look at item similarity (similaity between articles) and lists the top 4 or 5 articles from wikipedia based on the titles chosen. This is a simple and a clear approach to someone who is starting. One pre-requisite would be to understand how recommendation engines work. That would help to relate to the codes and also understand the"WHYs" that we come across.</p>
