@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains some additional data science projects
+This repository contains some additional data science projects that I did in my free time
 <br>
 <br>
 <ol>
