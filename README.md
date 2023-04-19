@@ -6,7 +6,7 @@
 <li> Image Segmentation (semantic segmentation) </li><br>
 <p></p><br>
 <li> Tf-Idf articles recommendation system </li><br>
-<p></p>
+<p></p><br>
 <li> Churn Prediction </li><br>
 <p></p>
 </ol>
