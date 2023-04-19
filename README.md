@@ -7,4 +7,6 @@
 <p></p><br>
 <li> Tf-Idf articles recommendation system </li><br>
 <p></p>
+<li> Churn Prediction </li><br>
+<p></p>
 </ol>
